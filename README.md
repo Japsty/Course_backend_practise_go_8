@@ -1,2 +1,3 @@
-#3d Course backend practise
+Backed Practise №8
+
 Практика написания веб-сервиса для шифрования куки на GO
